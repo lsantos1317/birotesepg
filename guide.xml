@@ -253,26 +253,27 @@
     <display-name lang="pt">EUROSPORT 2</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="FOX LIFE">
+  
+  <channel id="FoxLife.pt">
     <display-name lang="pt">FOX LIFE</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="FOX CRIME">
+  
+  <channel id="FoxCrime.pt">
     <display-name lang="pt">FOX CRIME</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="FOX COMEDY">
+  
+  <channel id="FoxComedy.pt">
     <display-name lang="pt">FOX COMEDY</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="FOX">
+  
+  <channel id="Fox.pt">
     <display-name lang="pt">FOX</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="FOX MOVIES">
+  
+  <channel id="FoxMovies.pt">
     <display-name lang="pt">FOX MOVIES</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="FRANCE 24">
     <display-name lang="pt">FRANCE 24</display-name>
     <url>http://www.nos.pt</url>
