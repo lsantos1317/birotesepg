@@ -7,11 +7,11 @@
     <display-name lang="PT">JIMJAM</display-name>
   </channel>
   
-  <channel id="ABolaTV.pt	">
+  <channel id="ABolaTV.pt">
     <display-name lang="PT">A BOLA TV</display-name>
   </channel>
   
-  <channel id="Eurochannel.pt	">
+  <channel id="Eurochannel.pt">
     <display-name lang="PT">EUROCHANNEL</display-name>
   </channel>
   
@@ -156,18 +156,19 @@
     <display-name lang="pt">AR TV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="AXN MOVIES">
+  
+  <channel id="AXNMovies.pt">
     <display-name lang="pt">AXN MOVIES</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="AXN">
+  
+  <channel id="AXN.pt">
     <display-name lang="pt">AXN</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="AXN WHITE">
+  
+  <channel id="AXNWhite.pt">
     <display-name lang="pt">AXN White</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="BABY TV">
     <display-name lang="pt">BABY TV</display-name>
     <url>http://www.nos.pt</url>
