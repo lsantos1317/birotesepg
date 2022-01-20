@@ -309,10 +309,9 @@
     <display-name lang="pt">KOMBAT SPORT</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SIC K">
-    <display-name lang="pt">SIC K</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
+  
+  
+  
   <channel id="LOCALVISAO TV">
     <display-name lang="pt">LOCALVISAO TV</display-name>
     <url>http://www.nos.pt</url>
@@ -410,26 +409,32 @@
     <display-name lang="pt">SPORTING TV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SIC CARAS">
+  
+  <channel id="SicCaras.pt">
     <display-name lang="pt">SIC CARAS</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SIC">
+  
+  <channel id="sic.pt">
     <display-name lang="pt">SIC</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SIC MULHER">
+  
+  <channel id="sicmulher.pt">
     <display-name lang="pt">SIC MULHER</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SIC NOTICIAS">
+  
+  <channel id="sicnoticias.pt">
     <display-name lang="pt">SIC NOTICIAS</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SIC RADICAL">
+  
+  <channel id="sicradical.pt">
     <display-name lang="pt">SIC RADICAL</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
+  <channel id="SicK.pt">
+    <display-name lang="pt">SIC K</display-name>
+  </channel>
+  
   <channel id="SKY NEWS">
     <display-name lang="pt">SKY NEWS</display-name>
     <url>http://www.nos.pt</url>
