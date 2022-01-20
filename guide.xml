@@ -184,26 +184,31 @@
     <display-name lang="pt">BLAZE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="BLOOMBERG">
     <display-name lang="pt">BLOOMBERG</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="CACA E PESCA">
     <display-name lang="pt">CACA E PESCA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="CARTOON NETWORK">
     <display-name lang="pt">CARTOON NETWORK</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="CRIME INVESTIGATION">
     <display-name lang="pt">CRIME INVESTIGATION</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="CMTV">
+  
+  <channel id="cmtv.pt">
     <display-name lang="pt">CMTV</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="CNN">
     <display-name lang="pt">CNN</display-name>
     <url>http://www.nos.pt</url>
@@ -359,10 +364,11 @@
     <display-name lang="pt">PFC</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="PORTO CANAL">
+  
+  <channel id="PortoCanal.pt">
     <display-name lang="pt">PORTO CANAL</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="CANAL Q">
     <display-name lang="pt">CANAL Q</display-name>
     <url>http://www.nos.pt</url>
