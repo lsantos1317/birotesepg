@@ -401,7 +401,7 @@
     <display-name lang="pt">RECORD NEWS</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="RTP 1">
+  <channel id="rtp1.pt">
     <display-name lang="pt">RTP 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
