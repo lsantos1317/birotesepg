@@ -556,4 +556,165 @@
     <display-name lang="pt">VH1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <programme start="20210410141000 +0100" stop="20210410143500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">EastEnders</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E6226</episode-num>
+  </programme>
+  <programme start="20210410143500 +0100" stop="20210410145500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">EastEnders</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E6227</episode-num>
+  </programme>
+  <programme start="20210410145500 +0100" stop="20210410152000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">EastEnders</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E6228</episode-num>
+  </programme>
+  <programme start="20210410152000 +0100" stop="20210410160000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Casualty</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S35E7</episode-num>
+  </programme>
+  <programme start="20210410160000 +0100" stop="20210410164500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Impossible</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20210410164500 +0100" stop="20210410173000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Impossible</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20210410173000 +0100" stop="20210410182000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Antiques Roadshow</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S41E1</episode-num>
+  </programme>
+  <programme start="20210410182000 +0100" stop="20210410191500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">The Great British Sewing Bee</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20210410191500 +0100" stop="20210410200000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Doctor Who (EN)</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S10E5</episode-num>
+  </programme>
+  <programme start="20210410200000 +0100" stop="20210410203000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Hold the Sunset</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20210410203000 +0100" stop="20210410210000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Ghosts</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210410210000 +0100" stop="20210410214500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Live at the Apollo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S14E6</episode-num>
+  </programme>
+  <programme start="20210410214500 +0100" stop="20210410221500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">This Time with Alan Partridge</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20210410221500 +0100" stop="20210410230000 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Atlantis (EN)</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20210410230000 +0100" stop="20210410234500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Doctor Who (EN)</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S10E5</episode-num>
+  </programme>
+  <programme start="20210410234500 +0100" stop="20210411001500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Hold the Sunset</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20210411001500 +0100" stop="20210411004500 +0100" channel="BBC ENTERTAINMENT">
+    <title lang="pt">Ghosts</title>
+    <category lang="pt">series</category>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20210412144500 +0100" stop="20210412150500 +0100" channel="TLC">
+    <title lang="pt">Cake Boss</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E19</episode-num>
+  </programme>
+  <programme start="20210412150500 +0100" stop="20210412153000 +0100" channel="TLC">
+    <title lang="pt">Cake Boss</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E20</episode-num>
+  </programme>
+  <programme start="20210412153000 +0100" stop="20210412155000 +0100" channel="TLC">
+    <title lang="pt">Say Yes To The Dress: UK</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E35</episode-num>
+  </programme>
+  <programme start="20210412155000 +0100" stop="20210412161500 +0100" channel="TLC">
+    <title lang="pt">Say Yes To The Dress: UK</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E36</episode-num>
+  </programme>
+  <programme start="20210412161500 +0100" stop="20210412170000 +0100" channel="TLC">
+    <title lang="pt">Outdaughtered</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S4E4</episode-num>
+  </programme>
+  <programme start="20210412170000 +0100" stop="20210412174500 +0100" channel="TLC">
+    <title lang="pt">Outdaughtered</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S4E5</episode-num>
+  </programme>
+  <programme start="20210412174500 +0100" stop="20210412183000 +0100" channel="TLC">
+    <title lang="pt">Outdaughtered</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S4E6</episode-num>
+  </programme>
+  <programme start="20210412183000 +0100" stop="20210412185000 +0100" channel="TLC">
+    <title lang="pt">Cake Boss</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E19</episode-num>
+  </programme>
+  <programme start="20210412185000 +0100" stop="20210412191500 +0100" channel="TLC">
+    <title lang="pt">Cake Boss</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S3E20</episode-num>
+  </programme>
+  <programme start="20210412191500 +0100" stop="20210412200000 +0100" channel="TLC">
+    <title lang="pt">7 Little Johnstons</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S6E7</episode-num>
+  </programme>
+  <programme start="20210412200000 +0100" stop="20210412204500 +0100" channel="TLC">
+    <title lang="pt">The World</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20210412204500 +0100" stop="20210412213000 +0100" channel="TLC">
+    <title lang="pt">Counting On</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="onscreen">S5E11</episode-num>
+  </programme>
+  
+  <programme start="20210412170000 +0100" stop="20210412200000 +0100" channel="VH1">
+    <title lang="pt">We Love The: 00</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210412200000 +0100" stop="20210412210000 +0100" channel="VH1">
+    <title lang="pt">Guess the Year</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210412210000 +0100" stop="20210412220000 +0100" channel="VH1">
+    <title lang="pt">Taylor Swift: the Hits</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20210412220000 +0100" stop="20210413040000 +0100" channel="VH1">
+    <title lang="pt">VH1 Shuffle</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
 </tv>
