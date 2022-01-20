@@ -95,42 +95,43 @@
     <display-name lang="pt">VH1 CLASSIC</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="NICKELODEON">
+  
+  <channel id="Nickelodeon.pt">
     <display-name lang="pt">NICKELODEON</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="NAT GEO WILD">
+  
+  <channel id="NatGeoWild.pt">
     <display-name lang="pt">NAT GEO WILD</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="CANAL 11">
+  
+  <channel id="Canal11.pt">
     <display-name lang="pt">CANAL 11</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 1">
+  
+  <channel id="ElevenSports1.pt	">
     <display-name lang="pt">ELEVEN SPORTS 1</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 2">
+  
+  <channel id="ElevenSports2.pt	">
     <display-name lang="pt">ELEVEN SPORTS 2</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 3">
+  
+  <channel id="ElevenSports3.pt	">
     <display-name lang="pt">ELEVEN SPORTS 3</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 4">
+  
+  <channel id="ElevenSports4.pt	">
     <display-name lang="pt">ELEVEN SPORTS 4</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 5">
+  
+  <channel id="ElevenSports5.pt	">
     <display-name lang="pt">ELEVEN SPORTS 5</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ELEVEN SPORTS 6">
+  
+  <channel id="ElevenSports6.pt">
     <display-name lang="pt">ELEVEN SPORTS 6</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="TRACE TOCA">
     <display-name lang="pt">TRACE TOCA</display-name>
     <url>http://www.nos.pt</url>
@@ -140,11 +141,11 @@
     <display-name lang="pt">NHK</display-name>
   </channel>
   
-  <channel id="24 KITCHEN">
+  <channel id="24Kitchen.pt">
     <display-name lang="pt">24 KITCHEN</display-name>
   </channel>
   
-  <channel id="AFRO MUSIC">
+  <channel id="AfroMusic.pt">
     <display-name lang="pt">AFRO MUSIC</display-name>
   </channel>
   
@@ -152,7 +153,7 @@
     <display-name lang="pt">AMC</display-name>
   </channel>
   
-  <channel id="ARTV">
+  <channel id="ARTV.pt">
     <display-name lang="pt">AR TV</display-name>
   </channel>
   
@@ -168,18 +169,16 @@
     <display-name lang="pt">AXN White</display-name>
   </channel>
   
-  <channel id="BABY TV">
+  <channel id="BabyTV.pt">
     <display-name lang="pt">BABY TV</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   
   <channel id="BBCentertainment.pt">
     <display-name lang="pt">BBC ENTERTAINMENT</display-name>
   </channel>
   
-  <channel id="BIGGS">
+  <channel id="Biggs.pt">
     <display-name lang="pt">BIGGS</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   
   <channel id="blaze.pt">
@@ -336,7 +335,7 @@
     <display-name lang="pt">MEZZO</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="MTV">
+  <channel id="MTV.pt">
     <display-name lang="pt">MTV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -348,7 +347,7 @@
     <display-name lang="pt">MTV LIVE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV NBA HD">
+  <channel id="SportTVNBA.pt">
     <display-name lang="pt">SPORT TV NBA HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -361,13 +360,12 @@
     <display-name lang="pt">ODISSEIA</display-name>
   </channel>
   
-  <channel id="PANDA">
+  <channel id="canalpanda.pt">
     <display-name lang="pt">PANDA</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="PFC">
     <display-name lang="pt">PFC</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   
   <channel id="Porto.pt	">
@@ -411,9 +409,8 @@
     <display-name lang="pt">RTP MADEIRA</display-name>
   </channel>
   
-  <channel id="SPORTING TV">
+  <channel id="SPORTINGTV.pt">
     <display-name lang="pt">SPORTING TV</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   
   <channel id="SicCaras.pt">
@@ -445,46 +442,45 @@
     <display-name lang="pt">SKY NEWS</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="BENFICA TV">
+  
+  <channel id="BenficaTV.pt">
     <display-name lang="pt">BENFICA TV</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV 1">
+  
+  <channel id="sporttv1.pt">
     <display-name lang="pt">SPORT TV 1</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV 2">
+  
+  <channel id="sporttv2.pt">
     <display-name lang="pt">SPORT TV 2</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV 3">
+  
+  <channel id="sporttv3.pt">
     <display-name lang="pt">SPORT TV 3</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV 4">
+  
+  <channel id="sporttv4.pt">
     <display-name lang="pt">SPORT TV 4</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV 5">
+  
+  <channel id="sporttv5.pt">
     <display-name lang="pt">SPORT TV 5</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV +">
+  
+  <channel id="SportTVplus.pt">
     <display-name lang="pt">SPORT TV +</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SPORT TV 4K UHD">
+  
+  <channel id="SportTV4K.pt">
     <display-name lang="pt">SPORT TV 4K UHD</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   
   <channel id="SyFy.pt">
     <display-name lang="pt">SYFY</display-name>
   </channel>
   
-  <channel id="TCV">
+  <channel id="TcvInternational.pt">
     <display-name lang="pt">TCV</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   
   <channel id="TLC.pt">
@@ -560,165 +556,4 @@
     <display-name lang="pt">VH1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <programme start="20210410141000 +0100" stop="20210410143500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">EastEnders</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S1E6226</episode-num>
-  </programme>
-  <programme start="20210410143500 +0100" stop="20210410145500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">EastEnders</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S1E6227</episode-num>
-  </programme>
-  <programme start="20210410145500 +0100" stop="20210410152000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">EastEnders</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S1E6228</episode-num>
-  </programme>
-  <programme start="20210410152000 +0100" stop="20210410160000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Casualty</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S35E7</episode-num>
-  </programme>
-  <programme start="20210410160000 +0100" stop="20210410164500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Impossible</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20210410164500 +0100" stop="20210410173000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Impossible</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S1E8</episode-num>
-  </programme>
-  <programme start="20210410173000 +0100" stop="20210410182000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Antiques Roadshow</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S41E1</episode-num>
-  </programme>
-  <programme start="20210410182000 +0100" stop="20210410191500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">The Great British Sewing Bee</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20210410191500 +0100" stop="20210410200000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Doctor Who (EN)</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S10E5</episode-num>
-  </programme>
-  <programme start="20210410200000 +0100" stop="20210410203000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Hold the Sunset</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20210410203000 +0100" stop="20210410210000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Ghosts</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20210410210000 +0100" stop="20210410214500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Live at the Apollo</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S14E6</episode-num>
-  </programme>
-  <programme start="20210410214500 +0100" stop="20210410221500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">This Time with Alan Partridge</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20210410221500 +0100" stop="20210410230000 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Atlantis (EN)</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20210410230000 +0100" stop="20210410234500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Doctor Who (EN)</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S10E5</episode-num>
-  </programme>
-  <programme start="20210410234500 +0100" stop="20210411001500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Hold the Sunset</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S2E6</episode-num>
-  </programme>
-  <programme start="20210411001500 +0100" stop="20210411004500 +0100" channel="BBC ENTERTAINMENT">
-    <title lang="pt">Ghosts</title>
-    <category lang="pt">series</category>
-    <episode-num system="onscreen">S1E6</episode-num>
-  </programme>
-  <programme start="20210412144500 +0100" stop="20210412150500 +0100" channel="TLC">
-    <title lang="pt">Cake Boss</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S3E19</episode-num>
-  </programme>
-  <programme start="20210412150500 +0100" stop="20210412153000 +0100" channel="TLC">
-    <title lang="pt">Cake Boss</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S3E20</episode-num>
-  </programme>
-  <programme start="20210412153000 +0100" stop="20210412155000 +0100" channel="TLC">
-    <title lang="pt">Say Yes To The Dress: UK</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S3E35</episode-num>
-  </programme>
-  <programme start="20210412155000 +0100" stop="20210412161500 +0100" channel="TLC">
-    <title lang="pt">Say Yes To The Dress: UK</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S3E36</episode-num>
-  </programme>
-  <programme start="20210412161500 +0100" stop="20210412170000 +0100" channel="TLC">
-    <title lang="pt">Outdaughtered</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S4E4</episode-num>
-  </programme>
-  <programme start="20210412170000 +0100" stop="20210412174500 +0100" channel="TLC">
-    <title lang="pt">Outdaughtered</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S4E5</episode-num>
-  </programme>
-  <programme start="20210412174500 +0100" stop="20210412183000 +0100" channel="TLC">
-    <title lang="pt">Outdaughtered</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S4E6</episode-num>
-  </programme>
-  <programme start="20210412183000 +0100" stop="20210412185000 +0100" channel="TLC">
-    <title lang="pt">Cake Boss</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S3E19</episode-num>
-  </programme>
-  <programme start="20210412185000 +0100" stop="20210412191500 +0100" channel="TLC">
-    <title lang="pt">Cake Boss</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S3E20</episode-num>
-  </programme>
-  <programme start="20210412191500 +0100" stop="20210412200000 +0100" channel="TLC">
-    <title lang="pt">7 Little Johnstons</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S6E7</episode-num>
-  </programme>
-  <programme start="20210412200000 +0100" stop="20210412204500 +0100" channel="TLC">
-    <title lang="pt">The World</title>
-    <category lang="pt">documentarios</category>
-  </programme>
-  <programme start="20210412204500 +0100" stop="20210412213000 +0100" channel="TLC">
-    <title lang="pt">Counting On</title>
-    <category lang="pt">entretenimento</category>
-    <episode-num system="onscreen">S5E11</episode-num>
-  </programme>
-  
-  <programme start="20210412170000 +0100" stop="20210412200000 +0100" channel="VH1">
-    <title lang="pt">We Love The: 00</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20210412200000 +0100" stop="20210412210000 +0100" channel="VH1">
-    <title lang="pt">Guess the Year</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20210412210000 +0100" stop="20210412220000 +0100" channel="VH1">
-    <title lang="pt">Taylor Swift: the Hits</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
-  <programme start="20210412220000 +0100" stop="20210413040000 +0100" channel="VH1">
-    <title lang="pt">VH1 Shuffle</title>
-    <category lang="pt">entretenimento</category>
-  </programme>
 </tv>
