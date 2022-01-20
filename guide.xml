@@ -138,23 +138,22 @@
   
   <channel id="NHK">
     <display-name lang="pt">NHK</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="24 KITCHEN">
     <display-name lang="pt">24 KITCHEN</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="AFRO MUSIC">
     <display-name lang="pt">AFRO MUSIC</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="AMC">
+  
+  <channel id="AMC.pt">
     <display-name lang="pt">AMC</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="ARTV">
     <display-name lang="pt">AR TV</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
   
   <channel id="AXNMovies.pt">
@@ -173,18 +172,20 @@
     <display-name lang="pt">BABY TV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="BBC ENTERTAINMENT">
+  
+  <channel id="BBCentertainment.pt">
     <display-name lang="pt">BBC ENTERTAINMENT</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="BIGGS">
     <display-name lang="pt">BIGGS</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="BLAZE">
+  
+  <channel id="blaze.pt">
     <display-name lang="pt">BLAZE</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   
   <channel id="BLOOMBERG">
     <display-name lang="pt">BLOOMBERG</display-name>
@@ -295,10 +296,11 @@
     <display-name lang="pt">HISTORIA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="HOLLYWOOD">
+  
+  <channel id="hollywood.pt">
     <display-name lang="pt">HOLLYWOOD</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="ICONCERTS">
     <display-name lang="pt">ICONCERTS</display-name>
     <url>http://www.nos.pt</url>
@@ -474,10 +476,11 @@
     <display-name lang="pt">SPORT TV 4K UHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="SYFY">
+  
+  <channel id="SyFy.pt">
     <display-name lang="pt">SYFY</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="TCV">
     <display-name lang="pt">TCV</display-name>
     <url>http://www.nos.pt</url>
