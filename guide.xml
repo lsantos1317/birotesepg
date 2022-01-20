@@ -386,16 +386,16 @@
   </channel>
   <channel id="rtp1.pt">
     <display-name lang="pt">RTP 1</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="RTP 2">
+  
+  <channel id="rtp2.pt">
     <display-name lang="pt">RTP 2</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="RTP 3">
+  
+  <channel id="rtp3.pt">
     <display-name lang="pt">RTP 3</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="RTP AFRICA">
     <display-name lang="pt">RTP AFRICA</display-name>
     <url>http://www.nos.pt</url>
