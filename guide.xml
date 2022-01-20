@@ -108,27 +108,27 @@
     <display-name lang="pt">CANAL 11</display-name>
   </channel>
   
-  <channel id="ElevenSports1.pt	">
+  <channel id="Eleven1.pt	">
     <display-name lang="pt">ELEVEN SPORTS 1</display-name>
   </channel>
   
-  <channel id="ElevenSports2.pt	">
+  <channel id="Eleven2.pt	">
     <display-name lang="pt">ELEVEN SPORTS 2</display-name>
   </channel>
   
-  <channel id="ElevenSports3.pt	">
+  <channel id="Eleven3.pt	">
     <display-name lang="pt">ELEVEN SPORTS 3</display-name>
   </channel>
   
-  <channel id="ElevenSports4.pt	">
+  <channel id="Eleven4.pt	">
     <display-name lang="pt">ELEVEN SPORTS 4</display-name>
   </channel>
   
-  <channel id="ElevenSports5.pt	">
+  <channel id="Eleven5.pt	">
     <display-name lang="pt">ELEVEN SPORTS 5</display-name>
   </channel>
   
-  <channel id="ElevenSports6.pt">
+  <channel id="Eleven6.pt">
     <display-name lang="pt">ELEVEN SPORTS 6</display-name>
   </channel>
   
@@ -443,7 +443,7 @@
     <url>http://www.nos.pt</url>
   </channel>
   
-  <channel id="BenficaTV.pt">
+  <channel id="Btv.pt">
     <display-name lang="pt">BENFICA TV</display-name>
   </channel>
   
