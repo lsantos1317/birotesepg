@@ -491,10 +491,10 @@
     <display-name lang="pt">TLC</display-name>
   </channel>
   
-  <channel id="TOROS">
+  <channel id="TorosTV.pt">
     <display-name lang="pt">TOROS</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="TPA">
     <display-name lang="pt">TPA</display-name>
     <url>http://www.nos.pt</url>
@@ -552,14 +552,36 @@
     <display-name lang="pt">TVSERIES</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="UMEUROPA">
     <display-name lang="pt">UMEUROPA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
+  <channel id="Playboy.pt">
+    <display-name lang="pt">PLAYBOY</display-name>
+  </channel>
+  
+  <channel id="venus.pt">
+    <display-name lang="pt">VENUS</display-name>
+  </channel>
+  
+  <channel id="Hot.pt">
+    <display-name lang="pt">HOT</display-name>
+  </channel>
+  
   <channel id="VH1">
     <display-name lang="pt">VH1</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <programme start="20210410141000 +0100" stop="20210410143500 +0100" channel="BBC ENTERTAINMENT">
     <title lang="pt">EastEnders</title>
     <category lang="pt">series</category>
