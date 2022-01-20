@@ -32,7 +32,7 @@
     <display-name lang="pt">KURIAKOS TV</display-name>
   </channel>
   
-  <channel id="DISCOVERY SHOWCASE HD">
+  <channel id="DiscoveryShowcase.pt">
     <display-name lang="pt">DISCOVERY SHOWCASE HD</display-name>
   </channel>
   
@@ -292,7 +292,7 @@
     <display-name lang="pt">GLOBO NOW</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="HISTORIA">
+  <channel id="HistoryChannel.pt">
     <display-name lang="pt">HISTORIA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -352,14 +352,15 @@
     <display-name lang="pt">SPORT TV NBA HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="NATIONAL GEOGRAPHIC">
+  
+  <channel id="NatGeo.pt">
     <display-name lang="pt">NATIONAL GEOGRAPHIC</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="ODISSEIA">
+  
+  <channel id="odisseia.pt">
     <display-name lang="pt">ODISSEIA</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="PANDA">
     <display-name lang="pt">PANDA</display-name>
     <url>http://www.nos.pt</url>
@@ -485,10 +486,11 @@
     <display-name lang="pt">TCV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="TLC">
+  
+  <channel id="TLC.pt">
     <display-name lang="pt">TLC</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="TOROS">
     <display-name lang="pt">TOROS</display-name>
     <url>http://www.nos.pt</url>
