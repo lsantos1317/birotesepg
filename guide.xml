@@ -242,7 +242,7 @@
     <display-name lang="pt">E! ENTERTAINMENT</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="EUROSPORT 1">
+  <channel id="Eurosport1.pt">
     <display-name lang="pt">EUROSPORT 1</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -250,7 +250,7 @@
     <display-name lang="pt">EURONEWS</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="EUROSPORT 2">
+  <channel id="Eurosport2.pt">
     <display-name lang="pt">EUROSPORT 2</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -360,7 +360,7 @@
     <display-name lang="pt">ODISSEIA</display-name>
   </channel>
   
-  <channel id="canalpanda.pt">
+  <channel id="panda.pt">
     <display-name lang="pt">PANDA</display-name>
   </channel>
   
@@ -465,6 +465,10 @@
   
   <channel id="sporttv5.pt">
     <display-name lang="pt">SPORT TV 5</display-name>
+  </channel>
+  
+  <channel id="sporttv6.pt">
+    <display-name lang="pt">SPORT TV 6</display-name>
   </channel>
   
   <channel id="SportTVplus.pt">
