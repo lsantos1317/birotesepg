@@ -500,19 +500,19 @@
     <display-name lang="pt">TRAVEL CHANNEL</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="tvc1.pt">
+  <channel id="Tvcine1.pt	">
     <display-name lang="pt">TVCINE TOP</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="tvc2.pt">
+  <channel id="Tvcine2.pt	">
     <display-name lang="pt">TVCINE EDITION</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="tvc3.pt">
+  <channel id="Tvcine3.pt	">
     <display-name lang="pt">TVCINE EMOTION</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="tvc4.pt">
+  <channel id="Tvcine4.pt	">
     <display-name lang="pt">TVCINE ACTION</display-name>
     <url>http://www.nos.pt</url>
   </channel>
