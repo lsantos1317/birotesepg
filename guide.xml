@@ -140,14 +140,7 @@
     <display-name lang="pt">TRACE TOCA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="RTP ACORES">
-    <display-name lang="pt">RTP ACORES</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="RTP MADEIRA">
-    <display-name lang="pt">RTP MADEIRA</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
+  
   <channel id="NHK">
     <display-name lang="pt">NHK</display-name>
     <url>http://www.nos.pt</url>
@@ -384,6 +377,7 @@
     <display-name lang="pt">RECORD NEWS</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="rtp1.pt">
     <display-name lang="pt">RTP 1</display-name>
   </channel>
@@ -396,14 +390,22 @@
     <display-name lang="pt">RTP 3</display-name>
   </channel>
   
-  <channel id="RTP AFRICA">
+  <channel id="RTPAfrica.pt">
     <display-name lang="pt">RTP AFRICA</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="RTP MEMORIA">
+  
+  <channel id="rtpmemoria.pt">
     <display-name lang="pt">RTP MEMORIA</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
+  <channel id="RTPAcores.pt">
+    <display-name lang="pt">RTP ACORES</display-name>
+  </channel>
+  
+  <channel id="RTPMadeira.pt">
+    <display-name lang="pt">RTP MADEIRA</display-name>
+  </channel>
+  
   <channel id="SPORTING TV">
     <display-name lang="pt">SPORTING TV</display-name>
     <url>http://www.nos.pt</url>
