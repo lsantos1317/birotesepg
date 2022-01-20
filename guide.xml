@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   
-  <channel id="TVIFiccao.pt">
-    <display-name lang="PT">TVI FICCÃO</display-name>
-  </channel>
+  
   
   <channel id="JimJam.pt">
     <display-name lang="PT">JIMJAM</display-name>
@@ -56,9 +54,6 @@
     <display-name lang="pt">MOTORVISION</display-name>
   </channel>
   
-  <channel id="TVIReality.pt">
-    <display-name lang="pt">TVI REALITY</display-name>
-  </channel>
   
   <channel id="NickJr.pt">
     <display-name lang="pt">NICK JR</display-name>
@@ -519,14 +514,23 @@
     <display-name lang="pt">TVE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="TVI">
+  
+  <channel id="tvi.pt">
     <display-name lang="pt">TVI</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="TVI 24">
+  
+  <channel id="TVI24.pt">
     <display-name lang="pt">TVI 24</display-name>
-    <url>http://www.nos.pt</url>
   </channel>
+  
+  <channel id="TVIReality.pt">
+    <display-name lang="pt">TVI REALITY</display-name>
+  </channel>
+  
+  <channel id="TVIFiccao.pt">
+    <display-name lang="PT">TVI FICCÃO</display-name>
+  </channel>
+  
   <channel id="TV RECORD">
     <display-name lang="pt">TV RECORD</display-name>
     <url>http://www.nos.pt</url>
